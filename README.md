@@ -2,7 +2,7 @@
 
 
 # Previamente asegurate de:
-1. Descarga Ngrok [Ngrok] (https://ngrok.com/download) (https://github.com/ROBTRT421/apk.android.meterpreter.msfvenom/blob/main/NgrokDownload.png)
+1. Descarga Ngrok [Ngrok] (https://ngrok.com/download) ![](https://github.com/ROBTRT421/apk.android.meterpreter.msfvenom/blob/main/NgrokDownload.png)
 2. instala desde la terminal: $ sudo tar xvzf ~/Downloads/ngrok-v3-stable-linux-amd64.tgz -C /usr/local/bin (ojo con el nombre de la carpeta podria ser "Descargas" o "Downloads" segun el idioma de configuracion de tu kali)
 3. Abre una cuenta gratuita en Ngrok y despues vincula tu token desde la pagina principal de Ngrok dentro de tu perfil (https://github.com/ROBTRT421/apk.android.meterpreter.msfvenom/blob/main/Ngrokvinculacion.png)
 4. Tener actualizado tu sistema operativo: $ sudo apt update && apt upgrade -y.
